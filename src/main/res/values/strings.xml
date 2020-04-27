@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">广告测试</string>
+    <string name="activity_ad">广告</string>
+    <string name="ad_fetch">拉取广告</string>
+    <string name="ad_fetch_app">拉取下载APP广告</string>
+    <string name="ad_fetch_all">用Business拉取所有广告列表</string>
+    <string name="ad_fetch_coin">拉取任务和广告资源</string>
+    <string name="ad_gzmd">广告</string>
+    <string name="ad_coin">广告和积分结合demo</string>
+
+    <string name="activity_coin">积分任务</string>
+    <string name="title_activity_demo_main">DemoMainActivity</string>
+</resources>
