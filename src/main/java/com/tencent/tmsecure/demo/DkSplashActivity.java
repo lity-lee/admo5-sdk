@@ -26,7 +26,7 @@ public class DkSplashActivity extends Activity {
         dkAdManage = new TxSplashAdManage(this);//传IMEI参数
 
         //step4:请求广告，调用开屏广告异步请求接口，对请求回调的广告作渲染处理
-        dkAdManage.loadSplashAd("admo5" , 102 , new SplashInteractionListener() {
+        dkAdManage.loadSplashAd("admo5" , 103 , new SplashInteractionListener() {
             @Override
             public void onLoadSuccess(StyleAdEntity styleAdEntity, final View view) {
 
